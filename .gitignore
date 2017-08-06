@@ -4,6 +4,8 @@ run/
 .gradle/
 build/
 gradle-app.setting
+server.properties
+eula.txt
 
 ## Eclipse
 
